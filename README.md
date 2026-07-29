@@ -1,35 +1,55 @@
-# Hii! 👋 I'm Luthfi Iriawan
+# Hi 👋 I'm Luthfi Iriawan
 
-🎓 Informatics Student at Telkom University
+> Informatics Student @ Telkom University
+>
+> Passionate about Backend Development, Mobile Development, Data Analytics, and Machine Learning.
 
-I'm passionate about building web and mobile applications while exploring data analytics and machine learning.
+---
 
-### 🌱 Currently Learning
-- Laravel
-- Flutter
-- Data Analytics
-- Machine Learning
+## 🚀 Current Projects
 
-### 🚀 Projects
-- 🌿 **Selaras Diri** – Mental wellness platform built with Laravel & Flutter.
-- 🎫 **Evoria** – Event ticket marketplace with AI-powered recommendations.
-- 📊 **Social Network Analysis** – Community detection using Python & NetworkX.
+- 🌿 Selaras Diri
+- 🎫 Evoria
+- 📄 Surat Kehilangan System
 
-### 📫 Reach Me
-📧 **luthfifadhilah04@gmail.com**
+---
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+## 📊 GitHub Statistics
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=luthfiiriawan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luthfiiriawan&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthfiiriawan&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=luthfiiriawan&theme=tokyonight)
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,python,mysql,git,github,vscode,figma" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfiiriawan&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=luthfiiriawan&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,python,dart,js,mysql" />
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap,tailwind" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+📧 **luthfifadhilah04@gmail.com**
