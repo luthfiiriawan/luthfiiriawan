@@ -1,5 +1,5 @@
 # 💫 About Me:
-An Informatics student at Telkom University<br>🌱 Learning: Machine Learning, AI, Cloud Computing<br>💬 Ask me about: Laravel, Flutter, PHP, Python, Git<br>🎯 Goal: Backend Developer & Data Analyst<br>⚡ Fun fact: I'm always curious to explore new technologies and enjoy learning by building real projects
+An Informatics student at Telkom University<br> Learning: Machine Learning, AI, Cloud Computing<br> Ask me about: Laravel, Flutter, PHP, Python, Git<br> Goal: Backend Developer & Data Analyst<br> Fun fact: I'm always curious to explore new technologies and enjoy learning by building real projects
 
 
 ## 🌐 Socials:
